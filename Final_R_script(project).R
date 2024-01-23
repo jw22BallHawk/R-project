@@ -1,6 +1,6 @@
 # R Project Script - Jordan Wells
 
-# set the working directory to where the file was saved on your machine (replace with the dots)
+# set the working directory to where the folder was saved on your machine (replace with the dots)
 setwd("...")
 
 
