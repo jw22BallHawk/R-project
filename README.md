@@ -4,4 +4,5 @@ To run:
 1. open the Final_R_script(project).R file in R studio
 2. download the dataverse_files folder onto your machine
 3. follow along with the comments in the Final_R_script(project).R file
-details a statistical analysis of kindergarten education on adult outcomes
+
+This project showcases details a statistical analysis of kindergarten education on adult outcomes
